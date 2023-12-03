@@ -1,0 +1,15 @@
+C:\Users\k1_pc6\Desktop\lln\2\2\bin\Debug\2.exe.config
+C:\Users\k1_pc6\Desktop\lln\2\2\bin\Debug\2.exe
+C:\Users\k1_pc6\Desktop\lln\2\2\bin\Debug\2.pdb
+C:\Users\k1_pc6\Desktop\lln\2\2\obj\Debug\2.exe
+C:\Users\k1_pc6\Desktop\lln\2\2\obj\Debug\2.pdb
+I:\t_podman2\2\2\bin\Debug\2.exe.config
+I:\t_podman2\2\2\obj\Debug\2.exe
+I:\t_podman2\2\2\obj\Debug\2.pdb
+I:\t_podman2\2\2\bin\Debug\2.exe
+I:\t_podman2\2\2\bin\Debug\2.pdb
+C:\Users\Matin\Desktop\مدرسه\t_podman2\2\2\bin\Debug\2.exe.config
+C:\Users\Matin\Desktop\مدرسه\t_podman2\2\2\obj\Debug\2.exe
+C:\Users\Matin\Desktop\مدرسه\t_podman2\2\2\obj\Debug\2.pdb
+C:\Users\Matin\Desktop\مدرسه\t_podman2\2\2\bin\Debug\2.exe
+C:\Users\Matin\Desktop\مدرسه\t_podman2\2\2\bin\Debug\2.pdb
