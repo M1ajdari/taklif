@@ -1,0 +1,6 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\26\26\bin\Debug\26.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\26\26\bin\Debug\26.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\26\26\bin\Debug\26.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\26\26\obj\Debug\26.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\26\26\obj\Debug\26.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\26\26\obj\Debug\26.csprojResolveAssemblyReference.cache

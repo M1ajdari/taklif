@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\35\35\bin\Debug\35.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\35\35\bin\Debug\35.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\35\35\bin\Debug\35.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\35\35\obj\Debug\35.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\35\35\obj\Debug\35.pdb

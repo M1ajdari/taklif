@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\25\25\bin\Debug\25.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\25\25\bin\Debug\25.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\25\25\bin\Debug\25.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\25\25\obj\Debug\25.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\25\25\obj\Debug\25.pdb

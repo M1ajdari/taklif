@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\29.30.31.32\29.30.31.32\bin\Debug\29.30.31.32.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\29.30.31.32\29.30.31.32\bin\Debug\29.30.31.32.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\29.30.31.32\29.30.31.32\bin\Debug\29.30.31.32.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\29.30.31.32\29.30.31.32\obj\Debug\29.30.31.32.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\29.30.31.32\29.30.31.32\obj\Debug\29.30.31.32.pdb
