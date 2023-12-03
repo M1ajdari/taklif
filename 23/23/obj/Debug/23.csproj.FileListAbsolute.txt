@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\23\23\bin\Debug\23.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\23\23\bin\Debug\23.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\23\23\bin\Debug\23.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\23\23\obj\Debug\23.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\23\23\obj\Debug\23.pdb

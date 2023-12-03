@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\21\21\bin\Debug\21.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\21\21\bin\Debug\21.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\21\21\bin\Debug\21.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\21\21\obj\Debug\21.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\21\21\obj\Debug\21.pdb

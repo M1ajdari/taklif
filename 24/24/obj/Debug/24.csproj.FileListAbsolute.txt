@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\24\24\bin\Debug\24.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\24\24\bin\Debug\24.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\24\24\bin\Debug\24.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\24\24\obj\Debug\24.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\24\24\obj\Debug\24.pdb
