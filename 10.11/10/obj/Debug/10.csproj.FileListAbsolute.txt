@@ -1,0 +1,10 @@
+I:\t_podman2\10\10\bin\Debug\10.exe.config
+I:\t_podman2\10\10\bin\Debug\10.exe
+I:\t_podman2\10\10\bin\Debug\10.pdb
+I:\t_podman2\10\10\obj\Debug\10.exe
+I:\t_podman2\10\10\obj\Debug\10.pdb
+C:\Users\Matin\Desktop\مدرسه\t_podman2\10\10\bin\Debug\10.exe.config
+C:\Users\Matin\Desktop\مدرسه\t_podman2\10\10\obj\Debug\10.exe
+C:\Users\Matin\Desktop\مدرسه\t_podman2\10\10\obj\Debug\10.pdb
+C:\Users\Matin\Desktop\مدرسه\t_podman2\10\10\bin\Debug\10.exe
+C:\Users\Matin\Desktop\مدرسه\t_podman2\10\10\bin\Debug\10.pdb

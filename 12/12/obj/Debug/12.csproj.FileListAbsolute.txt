@@ -1,0 +1,6 @@
+C:\Users\Matin\Desktop\مدرسه\Ajdari\12\12\bin\Debug\12.exe.config
+C:\Users\Matin\Desktop\مدرسه\Ajdari\12\12\bin\Debug\12.exe
+C:\Users\Matin\Desktop\مدرسه\Ajdari\12\12\bin\Debug\12.pdb
+C:\Users\Matin\Desktop\مدرسه\Ajdari\12\12\obj\Debug\12.csprojResolveAssemblyReference.cache
+C:\Users\Matin\Desktop\مدرسه\Ajdari\12\12\obj\Debug\12.exe
+C:\Users\Matin\Desktop\مدرسه\Ajdari\12\12\obj\Debug\12.pdb

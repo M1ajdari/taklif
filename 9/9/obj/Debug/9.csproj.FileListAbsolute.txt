@@ -1,0 +1,12 @@
+I:\t_podman2\9\9\bin\Debug\9.exe.config
+I:\t_podman2\9\9\bin\Debug\9.exe
+I:\t_podman2\9\9\bin\Debug\9.pdb
+I:\t_podman2\9\9\obj\Debug\9.csprojResolveAssemblyReference.cache
+I:\t_podman2\9\9\obj\Debug\9.exe
+I:\t_podman2\9\9\obj\Debug\9.pdb
+C:\Users\Matin\Desktop\مدرسه\t_podman2\9\9\bin\Debug\9.exe.config
+C:\Users\Matin\Desktop\مدرسه\t_podman2\9\9\obj\Debug\9.exe
+C:\Users\Matin\Desktop\مدرسه\t_podman2\9\9\obj\Debug\9.pdb
+C:\Users\Matin\Desktop\مدرسه\t_podman2\9\9\bin\Debug\9.exe
+C:\Users\Matin\Desktop\مدرسه\t_podman2\9\9\bin\Debug\9.pdb
+C:\Users\Matin\Desktop\مدرسه\t_podman2\9\9\obj\Debug\9.csprojResolveAssemblyReference.cache
