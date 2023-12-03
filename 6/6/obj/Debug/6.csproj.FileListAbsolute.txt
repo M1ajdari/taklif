@@ -1,0 +1,10 @@
+C:\Users\k1_pc6\Desktop\lln\6\6\bin\Debug\6.exe.config
+C:\Users\k1_pc6\Desktop\lln\6\6\bin\Debug\6.exe
+C:\Users\k1_pc6\Desktop\lln\6\6\bin\Debug\6.pdb
+C:\Users\k1_pc6\Desktop\lln\6\6\obj\Debug\6.exe
+C:\Users\k1_pc6\Desktop\lln\6\6\obj\Debug\6.pdb
+I:\t_podman2\6\6\bin\Debug\6.exe.config
+I:\t_podman2\6\6\obj\Debug\6.exe
+I:\t_podman2\6\6\obj\Debug\6.pdb
+I:\t_podman2\6\6\bin\Debug\6.exe
+I:\t_podman2\6\6\bin\Debug\6.pdb
