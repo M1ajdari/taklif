@@ -1,0 +1,6 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\17\17\bin\Debug\17.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\17\17\bin\Debug\17.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\17\17\bin\Debug\17.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\17\17\obj\Debug\17.csprojResolveAssemblyReference.cache
+C:\Users\Matin\Desktop\مدرسه\Vs\17\17\obj\Debug\17.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\17\17\obj\Debug\17.pdb

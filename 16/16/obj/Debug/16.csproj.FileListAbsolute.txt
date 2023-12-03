@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Ajdari\16\16\bin\Debug\16.exe.config
+C:\Users\Matin\Desktop\مدرسه\Ajdari\16\16\bin\Debug\16.exe
+C:\Users\Matin\Desktop\مدرسه\Ajdari\16\16\bin\Debug\16.pdb
+C:\Users\Matin\Desktop\مدرسه\Ajdari\16\16\obj\Debug\16.exe
+C:\Users\Matin\Desktop\مدرسه\Ajdari\16\16\obj\Debug\16.pdb

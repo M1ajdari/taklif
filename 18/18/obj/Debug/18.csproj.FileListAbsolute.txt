@@ -1,0 +1,5 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\18\18\bin\Debug\18.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\18\18\bin\Debug\18.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\18\18\bin\Debug\18.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\18\18\obj\Debug\18.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\18\18\obj\Debug\18.pdb
