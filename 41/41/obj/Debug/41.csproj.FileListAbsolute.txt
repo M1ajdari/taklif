@@ -1,0 +1,6 @@
+C:\Users\Matin\Desktop\مدرسه\Vs\41\41\bin\Debug\41.exe.config
+C:\Users\Matin\Desktop\مدرسه\Vs\41\41\bin\Debug\41.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\41\41\bin\Debug\41.pdb
+C:\Users\Matin\Desktop\مدرسه\Vs\41\41\obj\Debug\41.csprojResolveAssemblyReference.cache
+C:\Users\Matin\Desktop\مدرسه\Vs\41\41\obj\Debug\41.exe
+C:\Users\Matin\Desktop\مدرسه\Vs\41\41\obj\Debug\41.pdb
